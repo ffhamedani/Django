@@ -1,2 +1,5 @@
 create django project:
 1- install virtual enviroment -> python -m venv virtual enviroment name
+2- active virtual env. -> /scripts.activate.bat
+
+
